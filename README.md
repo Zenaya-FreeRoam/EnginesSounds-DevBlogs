@@ -76,7 +76,7 @@
 
 [<img src="https://badgen.net/badge/Discord/Chill%20with%20us/?icon=https://designeya.fr/webroot/images/github_zenaya_for_guilded.svg&scale=2&color=2C2F33&labelColor=F5C400">](https://www.guilded.gg/Zenaya)
 <br>
-[<img src="https://badgen.net/badge/Discord/Join%20to%20chill%20with%20us/?icon=https://designeya.fr/webroot/images/github_zenaya_for_discord.svg&scale=2&color=2C2F33&labelColor=5865F2">](https://discord.gg/tc3rPYEzj7)
+[<img src="https://badgen.net/badge/Discord/Join%20to%20chill%20with%20us/?icon=https://designeya.fr/webroot/images/github_zenaya_for_discord.svg&scale=2&color=2C2F33&labelColor=5865F2">](https://discord.gg/tFQMGZ3QRp)
 <br>
 [<img src="https://badgen.net/badge/FiveM/Play%20on%20Zenaya/?icon=https://designeya.fr/webroot/images/github_zenaya_fivem_white.svg&scale=2&color=2C2F33&labelColor=ff6f00">](https://cfx.re/join/kakp67)
 <br>
