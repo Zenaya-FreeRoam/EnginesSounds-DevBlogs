@@ -37,7 +37,7 @@
 |Mercedes-Benz|C/CLK/CL/ML/E/SL 63|V8 M156 • 6.2L|2006 • 2015|/engineAudio mbnzc63eng|
 |Ferrari|LaFerrari Aperta|V12 F140FE • 6.3L|2013 • 2015|/engineAudio ferrarif140fe|
 |Ferrari|Enzo|V12 F140B • 6.0L|2002 • 2004|/engineAudio ta018ferf140b|
-|Chevrolet|Corvette C6|2008 • 2017|/engineAudio lg68ls3vette|
+|Chevrolet|Corvette C6|V8 LS3 • 6.2L|2008 • 2017|/engineAudio lg68ls3vette|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
