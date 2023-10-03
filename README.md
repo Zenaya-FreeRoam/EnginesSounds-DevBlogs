@@ -29,7 +29,7 @@
 |BMW|M3 F80 • M4 F82/83|L6 S55 • 3.0L<br>Akrapovič Exhaust|2015 • 2020|/engineAudio lg18bmwm4|
 |Porsche|Taycan|2× AC sync'<br>electric motors|Since 2019|/engineAudio lg55taycan|
 |Ferrari|812 SuperFast • 812 GTS|V12 F140 GA • 6.5L|Since 2017|/engineAudio lg86fer812sf|
-|Nissan|Skyline R32|L6 RB26DETT • 2.6L|1989 • 2002<br>Re-produced**¹** since 2019|/engineAudio lg36r32skyid|
+|Nissan|Skyline R32/R33/R34|L6 RB26DETT • 2.6L|1989 • 2002<br>Re-produced**¹** since 2019|/engineAudio lg36r32skyid|
 |Chevrolet|Corvette C1 • Fleetline|L6 Stovebolt 235 • 3.9L|1941 • 1962|/engineAudio chevy235|
 |Ford|V-8 Coupe|V8 Flathead 221 • 3.6L|1932 • 1942|/engineAudio flatheadv8|
 |Nissan|Nissan GT-R R35|V6 VR38DETT • 3.8L|Since 2007|/engineAudio aq10nisvr38dett|
