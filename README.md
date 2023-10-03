@@ -8,8 +8,8 @@
 
 |BRAND|MODEL|TYPE|YEAR|COMMAND CODE|
 |:----:|:----:|:----:|:----:|:----:|
-|Dodge|Hemi Hellcat|V8 • 6.2L|~2015?|/engineAudio dodgehemihellcat|
-|Ferrari|612 Scaglietti|V12 • 5.7L|2004-2011|/engineAudio fer612sc|
+|Dodge|Challenger SRT • Charger SRT<br>Durango • RAM 1500<br>Jeep Grand Cherokee Trackhawk|V8 HEMI Hellcat • 6.2L|Since 2015|/engineAudio dodgehemihellcat|
+|Ferrari|612 Scaglietti<br>575M Maranello|V12 F133 • 5.7L|2004-2011|/engineAudio fer612sc|
 |Lamborghini • Audi|Gallardo • Huracan<br>R8 • etc...|V10 • 5.2L|Since 2008|/engineAudio talam52v10|
 |Ford|Mustang|V8 • 5.8L|1969|/engineAudio ta008mustang69|
 |Lamborghini|Urus|V8 • 4.0L<br>Capristo Exhaust|2018-2021|/engineAudio lg51uruscapri|
