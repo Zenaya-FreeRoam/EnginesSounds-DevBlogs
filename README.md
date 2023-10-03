@@ -124,6 +124,8 @@
 |Mazda|RX-4 • RX-7|Wankel 13B • 1.3L|1974 • 2002|/engineAudio rotary7|
 |Mercedes-Benz|W201 190-E|L4 M102.924 • 2.5L|1986 • 1990|/engineAudio kc34merc190e|
 |Nissan|180SX • 240SX • Silvia S15|L4 SR20DET • 2.4L|1989 • 2002|/engineAudio kc28sr180|
+|Toyota<br>Subaru|GT86<br>BRZ|F4 4U-GSE • 2.0L|2012 • 2021|/engineAudio kc41gt86na|
+|Toyota<br>Subaru|GT86<br>BRZ|F4 FA20D • 2.0L|2012 • 2021|/engineAudio kc42brz14|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
