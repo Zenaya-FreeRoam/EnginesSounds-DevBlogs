@@ -127,6 +127,7 @@
 |Toyota<br>Subaru|GT86<br>BRZ|F4 4U-GSE • 2.0L<br>Toyota Code Name|2012 • 2021|/engineAudio kc41gt86na|
 |Toyota<br>Subaru|GT86<br>BRZ|F4 FA20D • 2.0L<br>Subaru Code Name|2012 • 2021|/engineAudio kc42brz14|
 |BMW<br>Toyota|Z4 M40i • X5/X6/X7<br>Supra A70 GR|L6 B58B30M1 • 3.0L<br>Custom Exhaust|Since 2018|/engineAudio lg16a90mk5|
+|Toyota|Supra A70 MK III • Mark II|L6 1JZ-GTE • 2.0L|1990 • 2007|/engineAudio tjz1eng|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
