@@ -122,6 +122,7 @@
 |Bentley|Bentayga|V8 TDI T-T**²** • 4.0L<br>Mansory Exhaust|Since 2013|/engineAudio lg125mnsrybently|
 |Honda|S2000|L4 F20C VTEC • 2.2L|1999 • 2009|/engineAudio aq56honf20c|
 |Mazda|RX-4 • RX-7|Wankel 13B • 1.3L|1974 • 2002|/engineAudio rotary7|
+|Mercedes-Benz|W201 190-E|L4 M102.924 • 2.5L|1986 • 1990|/engineAudio kc34merc190e|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
