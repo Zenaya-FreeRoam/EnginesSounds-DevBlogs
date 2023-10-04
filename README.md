@@ -147,6 +147,7 @@
 |BMW|S1000R|L4 • 4 Stroke<br>Akrapovič Exhaust|2014-2021|/engineAudio kc74s1000rrakevoline|
 |Kawasaki|ZX-10R|L4 4 Stroke • 1.0L<br>SC Project Exhaust|Since 2004|/engineAudio kc144kawazx10rsc|
 |KTM|1290 Super Duke R|V2 4 Stroke LC8 • 1.3L|Since 2003|/engineAudio ktm1290r|
+|Ducati|Pigale V4 R|V4 4 Stroke • 1.1L|Since 2018|/engineAudio kc32ducavr4|
 
 [What does the symbol mean?](#meanings-of-the-symbols)
 </div>
