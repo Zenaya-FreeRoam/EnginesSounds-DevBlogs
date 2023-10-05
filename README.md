@@ -134,6 +134,8 @@
 |Subaru|WRX STI • Legacy GT|F4 EJ255 • 2.5L|2004 • 2021|/engineAudio wrxrllyeng|
 |Subaru|WRX STI • Legacy GT|F4 EJ257 • 2.5L|2004 • 2021|/engineAudio aq03ej257|
 |Subaru|WRX STI • Legacy GT|F4 EJ20 • 2.0L<br>Japanese Domestic Market (JDM)|1989 • 2021|/engineAudio subaruej20|
+|Chevrolet|Camaro 67/68 • Corvette|V8 350 • 5.7L|1967 • 1980|/engineAudio kc68chevy350l48|
+|Chevrolet|Silverado<br>GMC Sierra|V8 Duramax • 6.6L|Since 2001|/engineAudio chevydmaxeng|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
