@@ -137,6 +137,7 @@
 |Chevrolet|Camaro 67/68 • Corvette|V8 350 • 5.7L|1967 • 1980|/engineAudio kc68chevy350l48|
 |Chevrolet|Silverado<br>GMC Sierra|V8 Duramax • 6.6L|Since 2001|/engineAudio chevydmaxeng|
 |Honda|NSX|V6 C30A • 3.0L|1991 • 2004|/engineAudio c30a|
+|Renault|Renault-Williams RS5 • Espace F1|V10 RS5 F1 • 3.5L|1993 • 1993|/engineAudio lg115classicf1v10|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
