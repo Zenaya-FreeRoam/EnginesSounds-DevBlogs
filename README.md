@@ -42,7 +42,7 @@
 |Lamborghini|Aventador • Veneno<br>Centenario|V12 L539 • 6.5L|Since 2011|/engineAudio lamveneng|
 |Toyota|Supra JZA80 MK4|L6 2JZ-GTE T-T • 3.0L|1991 • 2002|/engineAudio kc302jzstock|
 |Honda|Civic Si|L4 K24Z7 DOHC • 2.4L|2012 • 2015|/engineAudio kc29hondak24z7|
-|Honda|Civic Type-R EP3|L4 K20A DOHC • 2.0L|2001 • 2011 2015|/engineAudio k20a|
+|Honda|Civic Type-R EP3|L4 K20A DOHC • 2.0L|2001 • 2011|/engineAudio k20a|
 |Honda|Civic Type-R FK2/FK8 & FL5|L4 K20C1 DOHC • 2.0L|Since 2015|/engineAudio k20c|
 |Mazda|MX-5 Miata|L4 BP • 1.8L|~1989 • ~1998|/engineAudio aq09mazbpze|
 |Mercedes-Benz|CL/CLS/G/E/S/SL 55 AMG|V8 M113K • 5.4L|2003 • 2011|/engineAudio m113k|
