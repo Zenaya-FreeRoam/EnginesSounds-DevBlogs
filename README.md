@@ -148,6 +148,7 @@
 |Kawasaki|ZX-10R|L4 4 Stroke • 1.0L<br>SC Project Exhaust|Since 2004|/engineAudio kc144kawazx10rsc|
 |KTM|1290 Super Duke R|V2 4 Stroke LC8 • 1.3L|Since 2003|/engineAudio ktm1290r|
 |Ducati|Pigale V4 R|V4 4 Stroke • 1.1L|Since 2018|/engineAudio kc32ducavr4|
+|Yamaha|Raptor 700|1 Cylinder 4 Stroke • 0.7L|Since 2006|/engineAudio lgcyc00qbike700|
 
 [What does the symbol mean?](#meanings-of-the-symbols)
 </div>
