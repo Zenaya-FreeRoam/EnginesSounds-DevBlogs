@@ -157,6 +157,7 @@
 |Yamaha|Raptor 700|1 Cylinder 4 Stroke • 0.7L|Since 2006|/engineAudio lgcyc00qbike700|
 |Suzuki|GSX-R 1000|L4 4 Stroke • 1.0L|Since 2001|/engineAudio suzukigsxr1k|
 |Suzuki|GSX-R 1000|L4 4 Stroke • 1.0L<br>Yoshimura Exhaust|Since 2001|/engineAudio szkgsxryoshimuraeng|
+|Yamaha|YZF-R1|L4 4 Stroke • 1.0L|Since 2009|/engineAudio tayamahar1|
 
 [What does the symbol mean?](#meanings-of-the-symbols)
 </div>
