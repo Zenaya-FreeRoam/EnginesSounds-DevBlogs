@@ -130,6 +130,7 @@
 |Toyota|Supra A70 MK III • Mark II|L6 1JZ-GTE • 2.0L|1990 • 2007|/engineAudio tjz1eng|
 |Porsche|911 • 959<br>Boxter • Cayman|F6 • 3.0L|Since 1963|/engineAudio kc74porsche930|
 |Porsche|911 GT3|F6 • 4.0L|Since 1963|/engineAudio tagt3flat6|
+|Viper|Spania GTA Spano|V10 T-T**²** • 8.0L|1992 • 2002|/engineAudio gtaspanov10|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
