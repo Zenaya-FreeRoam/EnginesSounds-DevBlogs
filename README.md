@@ -139,6 +139,7 @@
 |Honda|NSX|V6 C30A • 3.0L|1991 • 2004|/engineAudio c30a|
 |Renault|Renault-Williams RS5 • Espace F1|V10 RS5 F1 • 3.5L|1993 • 1993|/engineAudio lg115classicf1v10|
 |Koeningsegg|Agera RS|V8 BiTurbo • 5.0L|2010 • 2018|/engineAudio lg67koagerars|
+|Ford|Explorer • Taurus • F-150|V6 EcoBoost • 3.5L|Since 2015|/engineAudio ecoboostv6|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
