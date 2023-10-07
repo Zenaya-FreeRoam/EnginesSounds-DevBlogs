@@ -141,6 +141,7 @@
 |Koeningsegg|Agera RS|V8 BiTurbo • 5.0L|2010 • 2018|/engineAudio lg67koagerars|
 |Ford|Explorer • Taurus • F-150|V6 EcoBoost • 3.5L|Since 2015|/engineAudio ecoboostv6|
 |Audi<br>Apollo<br>Gumpert|Urus<br>Apollo Arrow<br>Gumpert Apollo|V8 FSI T-T**²** • 4.0L|Since 2005|/engineAudio apollosv8|
+|Honda|McLaren MP4/4 F1<br>Williams FW09/FW10/FW11 F1<br>Lotus 99T/100T F1|V6 RA16 • 1.5L|1983 • 1988|/engineAudio honf1v6eng|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
