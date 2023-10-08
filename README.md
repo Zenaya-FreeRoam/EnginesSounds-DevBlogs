@@ -159,7 +159,7 @@
 |BRAND|MODEL|TYPE|YEAR|COMMAND CODE|
 |:----:|:----:|:----:|:----:|:----:|
 |Yamaha|MT-09|L3 • 4 Stroke|Since 2013|/engineAudio mt09eng|
-|BMW|S1000R|L4 • 4 Stroke|2014-2021|/engineAudio s1000r|
+|BMW|S1000R|L4 • 4 Stroke|2014-2021|/engineAudio bmws1krreng|
 |BMW|S1000R|L4 • 4 Stroke<br>Akrapovič Exhaust|2014-2021|/engineAudio kc74s1000rrakevoline|
 |Kawasaki|ZX-10R|L4 4 Stroke • 1.0L<br>SC Project Exhaust|Since 2004|/engineAudio kc144kawazx10rsc|
 |KTM|1290 Super Duke R|V2 4 Stroke LC8 • 1.3L|Since 2003|/engineAudio ktm1290r|
