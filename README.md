@@ -1,5 +1,7 @@
-<h1 align="center"><b>List of engine sound</b></h1>
-<h3 align="center"><b>Here you will find all the vehicles engines sound added on Zenaya server.</b></h3>
+<h1 align="center">List of engine sound</h1>
+<h3 align="center">Here you will find all the vehicles engines sound added on Zenaya server.</h3>
+<h3 align="center"><i>Engine sounds equivalent to the following models.</i></h3>
+<h5 align="center">Zenaya has no legal affiliation with Rockstar Games, CFX.re,<br>or any other registered company or trademark, along with their partners and collaborators.</h5>
 	
 ## **Cars Engines sounds**
 <div>
