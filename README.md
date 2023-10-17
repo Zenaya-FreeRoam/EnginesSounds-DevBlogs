@@ -159,7 +159,7 @@
 <picture><img align="right" src="https://designeya.fr/webroot/images/github_zenaya_for_bikes.svg" width = 250px></picture>
 <br>
 
-|BRAND|MODEL|TYPE|YEAR|COMMAND CODE|
+|Inspired brands|Sound like|Engine Style|Production Year(s)|Command to change|
 |:----:|:----:|:----:|:----:|:----:|
 |Yamaha|MT-09|L3 • 4 Stroke|Since 2013|/engineAudio mt09eng|
 |BMW|S1000R|L4 • 4 Stroke|2014-2021|/engineAudio bmws1krreng|
@@ -182,8 +182,8 @@
 <picture><img align="right" src="https://designeya.fr/webroot/images/github_zenaya_for_imaginary.svg" width = 250px></picture>
 <br>
 
-|TYPE|BRAND|MODEL|YEAR|
-|:----:|:----:|:----:|:----:|
+|Inspired brands|Sound like|Engine Style|Production Year(s)|Command to change|
+|:----:|:----:|:----:|:----:|:----:|
 ||
 
 [What does the symbol mean?](#meanings-of-the-symbols)
