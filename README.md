@@ -173,6 +173,7 @@
 |Yamaha|YZF-R1|L4 4 Stroke • 1.0L|Since 2009|/engineAudio tayamahar1|
 
 [What does the symbol mean?](#meanings-of-the-symbols)
+<br><b><p style="font-size: 0.875rem;">The brands and models are for information purposes only to give you an idea of the sound. Zenaya is not related or affiliated with any of its trademarks and registered names.</p></b>
 </div>
 <br><br><br><br>
 	
@@ -186,6 +187,7 @@
 ||
 
 [What does the symbol mean?](#meanings-of-the-symbols)
+<br><b><p style="font-size: 0.875rem;">The brands and models are for information purposes only to give you an idea of the sound. Zenaya is not related or affiliated with any of its trademarks and registered names.</p></b>
 </div>
 <br><br><br><br>
 
