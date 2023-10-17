@@ -8,7 +8,7 @@
 <picture><img align="right" src="https://designeya.fr/webroot/images/github_zenaya_for_real.svg" width = 250px></picture>
 <br>
 
-|BRAND|MODEL|TYPE|YEAR|COMMAND CODE|
+|Inspired brands|Sound like|Engine Style|Production Year(s)|Command to change|
 |:----:|:----:|:----:|:----:|:----:|
 |Dodge|Challenger SRT • Charger SRT<br>Durango • RAM 1500<br>Jeep Grand Cherokee Trackhawk|V8 HEMI Hellcat • 6.2L|Since 2015|/engineAudio dodgehemihellcat|
 |Ferrari|612 Scaglietti<br>575M Maranello|V12 F133 • 5.7L|2004-2011|/engineAudio fer612sc|
@@ -150,6 +150,7 @@
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
 [What does the symbol mean?](#meanings-of-the-symbols)
+<br><b><p style="font-size: 0.875rem;">The brands and models are for information purposes only to give you an idea of the sound. Zenaya is not related or affiliated with any of its trademarks and registered names.</p></b>
 </div>
 <br><br><br><br>
 	
