@@ -15,9 +15,9 @@
 |Lamborghini • Audi|Gallardo • Huracan<br>R8 • etc...|V10 • 5.2L|Since 2008|/engineAudio talam52v10|
 |Ford|Mustang|V8 • 5.8L|1969|/engineAudio ta008mustang69|
 |Lamborghini|Urus|V8 • 4.0L<br>Capristo Exhaust|2018-2021|/engineAudio lg51uruscapri|
-|Audi • Porsche|RS6 • RS7<br>Cayenne • Panamera<br>etc...|V8 • 4.0L<br>TFSI Bi-Turbo|2020|/engineAudio ea825|
+|Audi • Porsche|RS6 • RS7<br>Cayenne • Panamera<br>etc...|V8 • 4.0L<br>TFSI Bi-Turbo|Since 2016|/engineAudio ea825|
 |Ford|Focus RS|L4 • 2.3L|2017|/engineAudio lg21focusrs|
-|Audi • Porsche|RS6 • RS7<br>Cayenne • Panamera<br>etc...|V8 • 4.0L<br>TFSI Bi-Turbo|2020|/engineAudio taaud40v8|
+|Audi • Porsche|RS6 • RS7<br>Cayenne • Panamera<br>etc...|V8 • 4.0L<br>TFSI Bi-Turbo|Since 2016|/engineAudio taaud40v8|
 |Lamborghini|Aventador • Sián<br>Countach LPI 800-4 • etc...|V12 L539 • 6.5L|Since 2011|/engineAudio ta023l539|
 |Chevrolet|Corvette • Camaro<br>etc...|V8 LT1 • 6.2L|Since 2013|/engineAudio ta183lt1|
 |Cummins|Dodge Ram|L6 ISB • 5.9L|1998 • 2007|/engineAudio cummins5924v|
@@ -146,7 +146,8 @@
 |Audi<br>Apollo<br>Gumpert|Urus<br>Apollo Arrow<br>Gumpert Apollo|V8 FSI T-T**²** • 4.0L|Since 2005|/engineAudio apollosv8|
 |Honda|McLaren MP4/4 F1<br>Williams FW09/FW10/FW11 F1<br>Lotus 99T/100T F1|V6 RA16 • 1.5L|1983 • 1988|/engineAudio honf1v6eng|
 |Lamborghini|Gallardo|V10 • 6.2L|Since 2003|/engineAudio gallardov10|
-|Audi • Porsche|RS6 • RS7<br>Cayenne • Panamera<br>etc...|V8 • 4.0L<br>TFSI Bi-Turbo|2020|/engineAudio argento|
+|Audi • Porsche|RS6 • RS7<br>Cayenne • Panamera<br>etc...|V8 • 4.0L<br>TFSI Bi-Turbo|Since 2016|/engineAudio argento|
+|Audi|TTRS • RS3 • RSQ3|R5 TFSI • 2.5L|Since 2010|/engineAudio aq66audea855|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
