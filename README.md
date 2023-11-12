@@ -14,7 +14,7 @@
 |Ferrari|612 Scaglietti<br>575M Maranello|V12 F133 • 5.7L|2004-2011|/engineAudio fer612sc|
 |Lamborghini • Audi|Gallardo • Huracan<br>R8 • etc...|V10 • 5.2L|Since 2008|/engineAudio talam52v10|
 |Ford|Mustang|V8 • 5.8L|1969|/engineAudio ta008mustang69|
-|Lamborghini|Urus|V8 • 4.0L<br>Capristo Exhaust|2018-2021|/engineAudio lg51uruscapri|
+|Lamborghini|Urus|V8 • 4.0L<br>Like Capristo Exhaust|2018-2021|/engineAudio lg51uruscapri|
 |Audi • Porsche|RS6 • RS7<br>Cayenne • Panamera<br>etc...|V8 • 4.0L<br>TFSI Bi-Turbo|Since 2016|/engineAudio ea825|
 |Ford|Focus RS|L4 • 2.3L|2017|/engineAudio lg21focusrs|
 |Audi • Porsche|RS6 • RS7<br>Cayenne • Panamera<br>etc...|V8 • 4.0L<br>TFSI Bi-Turbo|Since 2016|/engineAudio taaud40v8|
@@ -28,7 +28,7 @@
 |Ferrari|Testarossa • 512 TR<br>Mondial t|V12 • 4.9L|1984 • 1996|/engineAudio f113|
 |Dodge|Charger R/T|V8 HEMI 426 • 7.0L|1969|/engineAudio lgcy01chargerv8|
 |Koeningsegg|Regera|V8 BiTurbo • 5.0L|2016 • 2022|/engineAudio lg91timreg|
-|BMW|M3 F80 • M4 F82/83|L6 S55 • 3.0L<br>Akrapovič Exhaust|2015 • 2020|/engineAudio lg18bmwm4|
+|BMW|M3 F80 • M4 F82/83|L6 S55 • 3.0L<br>Like Akrapovič Exhaust|2015 • 2020|/engineAudio lg18bmwm4|
 |Porsche|Taycan|2× AC sync'<br>electric motors|Since 2019|/engineAudio lg55taycan|
 |Ferrari|812 SuperFast • 812 GTS|V12 F140 GA • 6.5L|Since 2017|/engineAudio lg86fer812sf|
 |Nissan|Skyline R32/R33/R34|L6 RB26DETT • 2.6L|1989 • 2002<br>Re-produced**¹** since 2019|/engineAudio lg36r32skyid|
@@ -40,7 +40,7 @@
 |Volkswagen • Audi|Golf • Tiguan • Scirocco<br>TT • A(3/4/5) • Q3|L4 EA888 • 2.0L|Since 2012|/engineAudio kc26golft|
 |Lamborghini • Audi|Gallardo • Huracan<br>R8 V10|V10 FSI• 5.2L|Since 2008|/engineAudio lg59hurv10|
 |Bentley|Continental GT<br>Continental Flying Spur<br>Bentayga|W12 WR12 T-T**²** • 6.0L|Since 2001|/engineAudio aq40benw12tt|
-|Porsche|911 GT3 RS|F6 • 4.0L<br>Akrapovič Exhaust|Since 2019 or 2021?|/engineAudio kc73pgt3rsakrapovic|
+|Porsche|911 GT3 RS|F6 • 4.0L<br>Like Akrapovič Exhaust|Since 2019 or 2021?|/engineAudio kc73pgt3rsakrapovic|
 |Lamborghini|Aventador • Veneno<br>Centenario|V12 L539 • 6.5L|Since 2011|/engineAudio lamveneng|
 |Toyota|Supra JZA80 MK4|L6 2JZ-GTE T-T • 3.0L|1991 • 2002|/engineAudio kc302jzstock|
 |Honda|Civic Si|L4 K24Z7 DOHC • 2.4L|2012 • 2015|/engineAudio kc29hondak24z7|
@@ -81,9 +81,9 @@
 |Chrysler|Viper • Ram SRT-10 • GTA Spano|V10 • 9.0L|1992 • 2010|/engineAudio srtvipeng|
 |BMW|Rolls Royce<br >Ghost • Wraith • Dawn|V12 • 6.6L|Since 2008|/engineAudio aq48roln72v12|
 |Ferrari • Maserati|488 • California<br>Levante • Ghibli|V8 • 3.9L|Since 2013|/engineAudio aq35ferf154cd|
-|Ferrari • Maserati|488 • California<br>Levante • Ghibli|V8 • 3.9L<br>Capristo Exhaust|Since 2013|/engineAudio lg53fer488capri|
+|Ferrari • Maserati|488 • California<br>Levante • Ghibli|V8 • 3.9L<br>Like Capristo Exhaust|Since 2013|/engineAudio lg53fer488capri|
 |Ferrari|F40|V8 F120A T-T**²** • 2.9L|1987 • 1992|/engineAudio lgcy12ferf40|
-|Porsche|911 Turbo S (992)|F6 T-T**²** • 3.7L<br>Tubi Style Exhaust|Since 2019|/engineAudio lg102por992ts|
+|Porsche|911 Turbo S (992)|F6 T-T**²** • 3.7L<br>Like Tubi Style Exhaust|Since 2019|/engineAudio lg102por992ts|
 |McLaren|720S • 750S • 765LT • Elva<br>Senna • Speedtail • GT|V8 M840T T-T**²** • 4.0L|Since 2017|/engineAudio ml720v8eng|
 |Mercedes|C/E/S/G/GT 63<br>DB11/12 • Vantage • DBX|V8 M177 T-T**²** • 4.0L|Since 2015|/engineAudio ta176m177|
 |Mercedes|GT • GT S/C/R<br>Valhalla|V8 M178 T-T**²** • 4.0L|Since 2015|/engineAudio ta178amgb|
@@ -121,7 +121,7 @@
 |Aston Martin|DB7 • DB9 • DBS<br>Vanquish • Vantage • Rapide|V12 AML • 5.9L|Since 1999|/engineAudio aston59v12|
 |Hyundai<br>Kia|Veloster N • Kona • Santa Fe • i30<br>Optima • Sorento • Sportage|L4 Theta • 2.0L|Since 2009|/engineAudio aq36hyutheta2n|
 |McLaren|600LT • 600R • 650S • 675LT<br>MP4-12C • P1 • 540C • 570S|V8 M838T • 3.8L|2011 • 2021|/engineAudio mcp1eng|
-|Bentley|Bentayga|V8 TDI T-T**²** • 4.0L<br>Mansory Exhaust|Since 2013|/engineAudio lg125mnsrybently|
+|Bentley|Bentayga|V8 TDI T-T**²** • 4.0L<br>Like Mansory Exhaust|Since 2013|/engineAudio lg125mnsrybently|
 |Honda|S2000|L4 F20C VTEC • 2.2L|1999 • 2009|/engineAudio aq56honf20c|
 |Mazda|RX-4 • RX-7|Wankel 13B • 1.3L|1974 • 2002|/engineAudio rotary7|
 |Mercedes-Benz|W201 190-E|L4 M102.924 • 2.5L|1986 • 1990|/engineAudio kc34merc190e|
@@ -165,13 +165,13 @@
 |:----:|:----:|:----:|:----:|:----:|
 |Yamaha|MT-09|L3 • 4 Stroke|Since 2013|/engineAudio mt09eng|
 |BMW|S1000R|L4 • 4 Stroke|2014-2021|/engineAudio bmws1krreng|
-|BMW|S1000R|L4 • 4 Stroke<br>Akrapovič Exhaust|2014-2021|/engineAudio kc74s1000rrakevoline|
-|Kawasaki|ZX-10R|L4 4 Stroke • 1.0L<br>SC Project Exhaust|Since 2004|/engineAudio kc144kawazx10rsc|
+|BMW|S1000R|L4 • 4 Stroke<br>Like Akrapovič Exhaust|2014-2021|/engineAudio kc74s1000rrakevoline|
+|Kawasaki|ZX-10R|L4 4 Stroke • 1.0L<br>Like SC Project Exhaust|Since 2004|/engineAudio kc144kawazx10rsc|
 |KTM|1290 Super Duke R|V2 4 Stroke LC8 • 1.3L|Since 2003|/engineAudio ktm1290r|
 |Ducati|Pigale V4 R|V4 4 Stroke • 1.1L|Since 2018|/engineAudio kc32ducavr4|
 |Yamaha|Raptor 700|1 Cylinder 4 Stroke • 0.7L|Since 2006|/engineAudio lgcyc00qbike700|
 |Suzuki|GSX-R 1000|L4 4 Stroke • 1.0L|Since 2001|/engineAudio suzukigsxr1k|
-|Suzuki|GSX-R 1000|L4 4 Stroke • 1.0L<br>Yoshimura Exhaust|Since 2001|/engineAudio szkgsxryoshimuraeng|
+|Suzuki|GSX-R 1000|L4 4 Stroke • 1.0L<br>Like Yoshimura Exhaust|Since 2001|/engineAudio szkgsxryoshimuraeng|
 |Yamaha|YZF-R1|L4 4 Stroke • 1.0L|Since 2009|/engineAudio tayamahar1|
 |Honda|Titan GC190|1 Cylinder 4 Stroke • 0.2L<br>Like Diretao Exhaust|Since 2003|/engineAudio kc23titan160diretao|
 |Honda|Titan GC190|1 Cylinder 4 Stroke • 0.2L<br>Like Dore Exhaust|Since 2003|/engineAudio kc23titan160dore|
