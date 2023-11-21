@@ -148,6 +148,7 @@
 |Lamborghini|Gallardo|V10 • 6.2L|Since 2003|/engineAudio gallardov10|
 |Audi • Porsche|RS6 • RS7<br>Cayenne • Panamera<br>etc...|V8 • 4.0L<br>TFSI Bi-Turbo|Since 2016|/engineAudio argento|
 |Audi|TTRS • RS3 • RSQ3|R5 TFSI • 2.5L|Since 2010|/engineAudio aq66audea855|
+|Bugatti|Type 35|L8 • 2.3L|1924 • 1930|/engineAudio type1|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
