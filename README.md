@@ -151,6 +151,7 @@
 |Audi|TTRS • RS3 • RSQ3|R5 TFSI • 2.5L|Since 2010|/engineAudio aq66audea855|
 |Bugatti|Type 35|L8 • 2.3L|1924 • 1930|/engineAudio type1|
 |Delorean|DMC-12 BTTF|V6 PRV • 2.8L|1974 • 1998|/engineAudio dproto|
+|Mercedes|C/E/S/G/GT 63<br>DB11/12 • Vantage • DBX|V8 M177 T-T**²** • 4.0L|Since 2015|/engineAudio aq67merm177|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
