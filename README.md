@@ -153,6 +153,7 @@
 |Delorean|DMC-12 BTTF|V6 PRV • 2.8L|1974 • 1998|/engineAudio dproto|
 |Mercedes|C/E/S/G/GT 63<br>DB11/12 • Vantage • DBX|V8 M177 T-T**²** • 4.0L|Since 2015|/engineAudio aq67merm177|
 |Lamborghini<br>Audi|Gallardo • Huracan<br>R8 • etc...|V10 • 5.2L|Since 2008|/engineAudio aq68lam52v10|
+|Porsche|928|V8 M28 • 5.4L|Since 1977|/engineAudio stardust|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
