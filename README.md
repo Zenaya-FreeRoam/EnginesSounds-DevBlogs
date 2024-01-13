@@ -36,8 +36,8 @@
 |Ford|V-8 Coupe|V8 Flathead 221 • 3.6L|1932 • 1942|/engineAudio flatheadv8|
 |Nissan|Nissan GT-R R35|V6 VR38DETT • 3.8L|Since 2007|/engineAudio aq10nisvr38dett|
 |Nissan|350Z Nismo|V6 VQ37VHR • 3.7L|Since 2008|/engineAudio aq14nisvq37vhrt|
-|Ford • Mercury|Crown Victoria<br>Grand Marquis|V8 Modular SOHC • 4.6L<br>Police version|1990 • 2014|/engineAudio cvpiv8|
-|Ford • Mercury|Crown Victoria<br>Grand Marquis|V8 Modular SOHC • 4.6L<br>Civilian version|1990 • 2014|/engineAudio cvpiv8civ|
+|Ford • Mercury|Crown Victoria<br>Grand Marquis|V8 Modular SOHC • 4.6L<br>With Emergency Dispatch|1990 • 2014|/engineAudio cvpiv8|
+|Ford • Mercury|Crown Victoria<br>Grand Marquis|V8 Modular SOHC • 4.6L<br>Civilian Version|1990 • 2014|/engineAudio cvpiv8civ|
 |Volkswagen • Audi|Golf • Tiguan • Scirocco<br>TT • A(3/4/5) • Q3|L4 EA888 • 2.0L|Since 2012|/engineAudio kc26golft|
 |Lamborghini • Audi|Gallardo • Huracan<br>R8 V10|V10 FSI• 5.2L|Since 2008|/engineAudio lg59hurv10|
 |Bentley|Continental GT<br>Continental Flying Spur<br>Bentayga|W12 WR12 T-T**²** • 6.0L|Since 2001|/engineAudio aq40benw12tt|
@@ -101,7 +101,8 @@
 |BMW|M3 E90/92/93|V8 S65B40 • 4.0L|2007 • 2010|/engineAudio s65b40|
 |BMW|M3 GTR|V8 P60B40 • 4.0L|2001 • 2005|/engineAudio lg58mwm3gtr|
 |BMW|M3 E36|L6 S50B30 • 3.0L|1992 • 2000|/engineAudio kc135bm36|
-|BMW|M3 G20 • M5 G30 • M6 G32<br>M7 G11 • X3/4/5/6/7|L6 B57D30O0 • 3.0L|Since 2015|/engineAudio aq53bmwb57d30|
+|BMW|M3 G20 • M5 G30 • M6 G32<br>M7 G11 • X3/4/5/6/7|L6 B57D30O0 • 3.0L<br>With Emergency Dispatch|Since 2015|/engineAudio aq53bmwb57d30|
+|BMW|M3 G20 • M5 G30 • M6 G32<br>M7 G11 • X3/4/5/6/7|L6 B57D30O0 • 3.0L<br>Civilian Version|Since 2015|/engineAudio aq53bmwb57d30civ|
 |BMW<br>McLaren|McLaren F1|V12 S70/2 • 6.0L|1987 • 1994|/engineAudio bmws702|
 |BMW|M3 E30|L4 S14B23 • 2.3L|1986 • 1991|/engineAudio aq45bmws14b23|
 |Cummins|Dodge Ram|L6 B • 5.9L|1984 • 1998|/engineAudio tacumminsb|
@@ -142,8 +143,8 @@
 |Honda|NSX|V6 C30A • 3.0L|1991 • 2004|/engineAudio c30a|
 |Renault|Renault-Williams RS5 • Espace F1|V10 RS5 F1 • 3.5L|1993 • 1993|/engineAudio lg115classicf1v10|
 |Koeningsegg|Agera RS|V8 BiTurbo • 5.0L|2010 • 2018|/engineAudio lg67koagerars|
-|Ford|Explorer • Taurus • F-150|V6 EcoBoost • 3.5L|Since 2015|/engineAudio ecoboostv6|
-|Ford|Explorer • Taurus • F-150|V6 EcoBoost • 3.5L<br>With Emergency Dispatch|Since 2015|/engineAudio ecoboostv6civ|
+|Ford|Explorer • Taurus • F-150|V6 EcoBoost • 3.5L<br>With Emergency Dispatch|Since 2015|/engineAudio ecoboostv6|
+|Ford|Explorer • Taurus • F-150|V6 EcoBoost • 3.5L<br>Civilian Version|Since 2015|/engineAudio ecoboostv6civ|
 |Audi<br>Apollo<br>Gumpert|Urus<br>Apollo Arrow<br>Gumpert Apollo|V8 FSI T-T**²** • 4.0L|Since 2005|/engineAudio apollosv8|
 |Honda|McLaren MP4/4 F1<br>Williams FW09/FW10/FW11 F1<br>Lotus 99T/100T F1|V6 RA16 • 1.5L|1983 • 1988|/engineAudio honf1v6eng|
 |Lamborghini|Gallardo|V10 • 6.2L|Since 2003|/engineAudio gallardov10|
