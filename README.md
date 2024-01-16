@@ -172,6 +172,8 @@
 |Lamborghini|Aventador • Veneno<br>Centenario|V12 L539 • 6.5L|Since 2011|/engineAudio venenov12|
 |Koeningsegg|One:1|V8 BiTurbo • 5.0L|2014 • 2015|/engineAudio one1|
 |McLaren|720S • 765LT • Elva|V8 BiTurbo M840T • 4.0L|Since 2017|/engineAudio ml720v8eng|
+|Jaguar<br>Land Rover|F-Type • F-Pace<br>Range Rover|V6 AJ126 • 3.0L|2013 • 2020|/engineAudio ftypesound|
+|Lamborghini|Murciélago|V12 • 6.2L|2001 • 2010|/engineAudio ta116lp640f|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
