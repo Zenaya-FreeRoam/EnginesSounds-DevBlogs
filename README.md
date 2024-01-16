@@ -170,6 +170,7 @@
 |BMW|F80 M3 • F82/F83 M4|L6 • 3.0L|Since 2014|/engineAudio bmws55|
 |Chevrolet|Corvette C6|V8 LS3 • 6.2L|2008 • 2017|/engineAudio c6v8sound|
 |Lamborghini|Aventador • Veneno<br>Centenario|V12 L539 • 6.5L|Since 2011|/engineAudio venenov12|
+|Koeningsegg|One:1|V8 BiTurbo • 5.0L|2014 • 2015|/engineAudio one1|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
