@@ -103,7 +103,7 @@
 |BMW|M3 E36|L6 S50B30 • 3.0L|1992 • 2000|/engineAudio kc135bm36|
 |BMW|M3 G20 • M5 G30 • M6 G32<br>M7 G11 • X3/4/5/6/7|L6 B57D30O0 • 3.0L<br>With Emergency Dispatch|Since 2015|/engineAudio aq53bmwb57d30|
 |BMW|M3 G20 • M5 G30 • M6 G32<br>M7 G11 • X3/4/5/6/7|L6 B57D30O0 • 3.0L<br>Civilian Version|Since 2015|/engineAudio aq53bmwb57d30civ|
-|BMW<br>McLaren|McLaren F1|V12 S70/2 • 6.0L|1987 • 1994|/engineAudio bmws702|
+|BMW<br>McLaren|McLaren F1|V12 S70/2 • 6.1L|1993 • 1998|/engineAudio bmws702|
 |BMW|M3 E30|L4 S14B23 • 2.3L|1986 • 1991|/engineAudio aq45bmws14b23|
 |Cummins|Dodge Ram|L6 B • 5.9L|1984 • 1998|/engineAudio tacumminsb|
 |Dodge|Viper|V10 SR • 8.0L|1992 • 2002|/engineAudio srtvipeng|
@@ -165,6 +165,7 @@
 |Chevrolet<br>GMC<br>Cadillac|Silverado • Suburban • Tahoe<br>Hummer • Yukon • Sierra<br>Escalade|V8 Vortec 5300 • 5.3L|1997 • 2007|/engineAudio 53vortec|
 |Ford<br>International|Super Duty • F-650/F-750<br>3000/3300/4200 • MXT/MXT-MV|V8 Powerstroke • 6.4L|Since 1994|/engineAudio 64powerstroke|
 |Cummins|Dodge Ram|L6 B-Series • 5.9L|1984 • 1998|/engineAudio 12vcummins|
+|Ferrari • Maserati|488 • California<br>Levante • Ghibli|V8 • 3.9L|Since 2013|/engineAudio aq35ferf154cd|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
