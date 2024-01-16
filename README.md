@@ -167,6 +167,7 @@
 |Cummins|Dodge Ram|L6 B-Series • 5.9L|1984 • 1998|/engineAudio 12vcummins|
 |Ferrari|488|V8 • 3.9L|Since 2013|/engineAudio 488sound|
 |Mercedes|S-Class 680 • G65 AMG • Brabus 850|V12 M279 • 6.0L|Since 2012|/engineAudio brabus850|
+|BMW|F80 M3 • F82/F83 M4|L6 • 3.0L|Since 2014|/engineAudio bmws55|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
