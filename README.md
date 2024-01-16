@@ -159,6 +159,8 @@
 |Ferrari|F40|V8 F120A T-T**²** • 2.9L|1987 • 1992|/engineAudio f40v8|
 |Ferrari|F50|V12 F130B • 4.7L|1995 • 1997|/engineAudio f50v12|
 |Ford|Mustang|V8 • 5.8L|1969|/engineAudio musv8|
+|Lamborghini|Sesto Elemento|V10 • 5.2L|Since 2003|/engineAudio sestov10|
+|BMW|M5 E60/61 • M6 E63/64|V10 S85 • 5.0L|2005 • 2010|/engineAudio s85b50b|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
