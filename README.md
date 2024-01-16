@@ -155,6 +155,10 @@
 |Mercedes|C/E/S/G/GT 63<br>DB11/12 • Vantage • DBX|V8 M177 T-T**²** • 4.0L|Since 2015|/engineAudio aq67merm177|
 |Lamborghini<br>Audi|Gallardo • Huracan<br>R8 • etc...|V10 • 5.2L|Since 2008|/engineAudio aq68lam52v10|
 |Porsche|928|V8 M28 • 5.4L|Since 1977|/engineAudio stardust|
+|Dodge|Durango • RAM 1500<br>Jeep Grand Cherokee Trackhawk|V8 HEMI Hellcat • 6.2L|Since 2015|/engineAudio gresleyh|
+|Ferrari|F40|V8 F120A T-T**²** • 2.9L|1987 • 1992|/engineAudio f40v8|
+|Ferrari|F50|V12 F130B • 4.7L|1995 • 1997|/engineAudio f50v12|
+|Ford|Mustang|V8 • 5.8L|1969|/engineAudio musv8|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
