@@ -166,6 +166,7 @@
 |Ford<br>International|Super Duty • F-650/F-750<br>3000/3300/4200 • MXT/MXT-MV|V8 Powerstroke • 6.4L|Since 1994|/engineAudio 64powerstroke|
 |Cummins|Dodge Ram|L6 B-Series • 5.9L|1984 • 1998|/engineAudio 12vcummins|
 |Ferrari|488|V8 • 3.9L|Since 2013|/engineAudio 488sound|
+|Mercedes|S-Class 680 • G65 AMG • Brabus 850|V12 M279 • 6.0L|Since 2012|/engineAudio brabus850|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
