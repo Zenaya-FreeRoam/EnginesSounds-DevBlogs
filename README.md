@@ -162,6 +162,7 @@
 |Lamborghini|Sesto Elemento|V10 • 5.2L|Since 2003|/engineAudio sestov10|
 |BMW|M5 E60/61 • M6 E63/64|V10 S85 • 5.0L|2005 • 2010|/engineAudio s85b50b|
 |Dodge|Challenger SRT Demon|V8 HEMI Demon • 6.2L|Since 2015|/engineAudio demonv8|
+|Chevrolet<br>GMC<br>Cadillac|Silverado • Suburban • Tahoe<br>Hummer • Yukon • Sierra<br>Escalade|V8 Vortec 5300 • 5.3L|Since 2015|/engineAudio 53vortec|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
