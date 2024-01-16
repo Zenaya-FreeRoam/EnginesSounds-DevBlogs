@@ -78,7 +78,7 @@
 |McLaren|Senna • Elva|V8 M840TR • 4.0L|Since 2017|/engineAudio m840trsenna|
 |Lamborghini|Miura P400 • Countach LP400<br>Espada • Jarama|V12 • 3.9L|1963 • 2022|/engineAudio lg97lamctch|
 |Mercedes-Benz|AMG CLK GTR|V12 • 6.9L|1990 • 2000|/engineAudio lg187clkgtr|
-|General Motors|Corvette • Camaro SS|V8 LS3 • 6.2L|Since 2008|/engineAudio lg14c6vette| 25
+|General Motors|Corvette C5 Z06 <br> Cadillac CTS V-Series <br> SSC Ultimate Aero TT|V8 LS6 • 5.7L|Since 2008|/engineAudio lg14c6vette| 25
 |Chrysler|Viper • Ram SRT-10 • GTA Spano|V10 • 9.0L|1992 • 2010|/engineAudio srtvipeng|
 |BMW|Rolls Royce<br >Ghost • Wraith • Dawn|V12 • 6.6L|Since 2008|/engineAudio aq48roln72v12|
 |Ferrari • Maserati|488 • California<br>Levante • Ghibli|V8 • 3.9L|Since 2013|/engineAudio aq35ferf154cd|
