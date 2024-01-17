@@ -179,6 +179,7 @@
 |Plymouth|Road Runner|V8 B361 • 6.3L|1964 • 1971|/engineAudio vulture|
 |Ford|Ford Transit|L4 EcoBlue TDCi • 2.0L|Since 2016|/engineAudio nspeedo|
 |BMC|Austin-Healey Sprite MKI|L4 A-Series • 0.9L|1956 • 1964|/engineAudio brisket|
+|BMC|MG MGA Twin Cam|L4 B-Series DOHC • 1.6L|1958 • 1960|/engineAudio mark1|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
