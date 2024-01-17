@@ -171,7 +171,6 @@
 |Chevrolet|Corvette C6|V8 LS3 • 6.2L|2008 • 2017|/engineAudio c6v8sound|
 |Lamborghini|Aventador • Veneno<br>Centenario|V12 L539 • 6.5L|Since 2011|/engineAudio venenov12|
 |Koeningsegg|One:1|V8 BiTurbo • 5.0L|2014 • 2015|/engineAudio one1|
-|McLaren|720S • 765LT • Elva|V8 BiTurbo M840T • 4.0L|Since 2017|/engineAudio ml720v8eng|
 |Jaguar<br>Land Rover|F-Type • F-Pace<br>Range Rover|V6 AJ126 • 3.0L|2013 • 2020|/engineAudio ftypesound|
 |Porsche|Carrera GT|V10 M80/01 • 5.7L|2003 • 2007|/engineAudio porsche57v10|
 |Lamborghini|Murciélago|V12 • 6.2L|2001 • 2010|/engineAudio lgcy04murciv12|
