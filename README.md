@@ -178,6 +178,7 @@
 |Alpine|A110 1600 S • A310 1600 VE|L4 Cléon-Alu • 1.6L|1960 • 1986|/engineAudio sancy|
 |Plymouth|Road Runner|V8 B361 • 6.3L|1964 • 1971|/engineAudio vulture|
 |Ford|Ford Transit|L4 EcoBlue TDCi • 2.0L|Since 2016|/engineAudio nspeedo|
+|BMC|Austin-Healey Sprite MKI|L4 A-Series • 0.9L|1956 • 1964|/engineAudio brisket|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
