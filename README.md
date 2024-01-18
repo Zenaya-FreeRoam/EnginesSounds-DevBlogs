@@ -182,6 +182,7 @@
 |BMC|MG MGA Twin Cam|L4 B-Series DOHC • 1.6L|1958 • 1960|/engineAudio mark1|
 |Mercedes-Benz|CL/CLS/G/E/S/SL 55 AMG|V8 M113 • 5.4L|2003 • 2011|/engineAudio r230|
 |Ferrari|LaFerrari|V12 F140FE • 6.3L|2013 • 2015|/engineAudio laferrarisound|
+|Ferrari|F50|V12 F130B • 4.7L|1995 • 1997|/engineAudio f50gteng|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
