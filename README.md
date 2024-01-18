@@ -53,7 +53,7 @@
 |Mercedes-Benz|C/CLK/CL/ML/E/SL 63|V8 M156 • 6.2L|2006 • 2015|/engineAudio mbnzc63eng|
 |Ferrari|LaFerrari Aperta|V12 F140FE • 6.3L|2013 • 2015|/engineAudio ferrarif140fe|
 |Ferrari|Enzo|V12 F140B • 6.0L|2002 • 2004|/engineAudio ta018ferf140b|
-|Chevrolet|Corvette C6|V8 LS3 • 6.2L|2008 • 2017|/engineAudio lg68ls3vette|
+|Chevrolet|Corvette C6 • Camaro SS|V8 LS3 • 6.2L|2008 • 2017|/engineAudio lg68ls3vette|
 |Ford|F-150 • Mustang GT|V8 Coyote • 5.0L|Since 2010|/engineAudio aq02coyotef150| 
 |Chevrolet|Camaro ZL1 • Corvette Z06|V8 LT4 Supercharged • 6.2L|Since 2015|/engineAudio chevroletlt4|
 |Alfa Romeo|Giulia & Stelvio (Quadrifoglio)<br>Giulia (GTA / GTAm)|V6 690T • 2.9L|Since 2016|/engineAudio alfa690t|
@@ -168,7 +168,7 @@
 |Ferrari|488|V8 • 3.9L|Since 2013|/engineAudio 488sound|
 |Mercedes|S-Class 680 • G65 AMG • Brabus 850|V12 M279 • 6.0L|Since 2012|/engineAudio brabus850|
 |BMW|F80 M3 • F82/F83 M4|L6 • 3.0L|Since 2014|/engineAudio bmws55|
-|Chevrolet|Corvette C6|V8 LS3 • 6.2L|2008 • 2017|/engineAudio c6v8sound|
+|Chevrolet|Corvette C6 • Camaro SS|V8 LS3 • 6.2L|2008 • 2017|/engineAudio c6v8sound|
 |Lamborghini|Aventador • Veneno<br>Centenario|V12 L539 • 6.5L|Since 2011|/engineAudio venenov12|
 |Koeningsegg|One:1|V8 BiTurbo • 5.0L|2014 • 2015|/engineAudio one1|
 |Jaguar<br>Land Rover|F-Type • F-Pace<br>Range Rover|V6 AJ126 • 3.0L|2013 • 2020|/engineAudio ftypesound|
@@ -183,7 +183,7 @@
 |Mercedes-Benz|CL/CLS/G/E/S/SL 55 AMG|V8 M113 • 5.4L|2003 • 2011|/engineAudio r230|
 |Ferrari|LaFerrari|V12 F140FE • 6.3L|2013 • 2015|/engineAudio laferrarisound|
 |Ferrari|F50|V12 F130B • 4.7L|1995 • 1997|/engineAudio f50gteng|
-|Chevrolet|Corvette C6|V8 LS3 • 6.2L|2008 • 2017|/engineAudio camls3v8|
+|Chevrolet|Corvette C6 • Camaro SS|V8 LS3 • 6.2L|2008 • 2017|/engineAudio camls3v8|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
