@@ -184,6 +184,7 @@
 |Ferrari|LaFerrari|V12 F140FE • 6.3L|2013 • 2015|/engineAudio laferrarisound|
 |Ferrari|F50|V12 F130B • 4.7L|1995 • 1997|/engineAudio f50gteng|
 |Chevrolet|Corvette C6 • Camaro SS|V8 LS3 • 6.2L|2008 • 2017|/engineAudio camls3v8|
+|Toyota|Camry • Alphard • Tacoma|V6 GR 2GR-FKS • 3.5L|Since 2015|/engineAudio asteropers|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
