@@ -27,7 +27,7 @@
 |Bugatti|Veyron • Chiron<br>16C Galibier|W16 • 8.0L|Since 2005|/engineAudio lg62chironpursport|
 |Ferrari|Testarossa • 512 TR<br>Mondial t|V12 • 4.9L|1984 • 1996|/engineAudio f113|
 |Dodge|Charger R/T|V8 HEMI 426 • 7.0L|1969|/engineAudio lgcy01chargerv8|
-|Koeningsegg|Regera|V8 BiTurbo • 5.0L|2016 • 2022|/engineAudio lg91timreg|
+|Koenigsegg|Regera|V8 BiTurbo • 5.0L|2016 • 2022|/engineAudio lg91timreg|
 |BMW|M3 F80 • M4 F82/83|L6 S55 • 3.0L<br>Like Akrapovič Exhaust|2015 • 2020|/engineAudio lg18bmwm4|
 |Porsche|Taycan|2× AC sync'<br>electric motors|Since 2019|/engineAudio lg55taycan|
 |Ferrari|812 SuperFast • 812 GTS|V12 F140 GA • 6.5L|Since 2017|/engineAudio lg86fer812sf|
@@ -142,7 +142,7 @@
 |Chevrolet|Silverado<br>GMC Sierra|V8 Duramax • 6.6L|Since 2001|/engineAudio chevydmaxeng|
 |Honda|NSX|V6 C30A • 3.0L|1991 • 2004|/engineAudio c30a|
 |Renault|Renault-Williams RS5 • Espace F1|V10 RS5 F1 • 3.5L|1993 • 1993|/engineAudio lg115classicf1v10|
-|Koeningsegg|Agera RS|V8 BiTurbo • 5.0L|2010 • 2018|/engineAudio lg67koagerars|
+|Koenigsegg|Agera RS|V8 BiTurbo • 5.0L|2010 • 2018|/engineAudio lg67koagerars|
 |Ford|Explorer • Taurus • F-150|V6 EcoBoost • 3.5L<br>With Emergency Dispatch|Since 2015|/engineAudio ecoboostv6|
 |Ford|Explorer • Taurus • F-150|V6 EcoBoost • 3.5L<br>Civilian Version|Since 2015|/engineAudio ecoboostv6civ|
 |Audi<br>Apollo<br>Gumpert|Urus<br>Apollo Arrow<br>Gumpert Apollo|V8 FSI T-T**²** • 4.0L|Since 2005|/engineAudio apollosv8|
@@ -170,7 +170,7 @@
 |BMW|F80 M3 • F82/F83 M4|L6 • 3.0L|Since 2014|/engineAudio bmws55|
 |Chevrolet|Corvette C6 • Camaro SS|V8 LS3 • 6.2L|2008 • 2017|/engineAudio c6v8sound|
 |Lamborghini|Aventador • Veneno<br>Centenario|V12 L539 • 6.5L|Since 2011|/engineAudio venenov12|
-|Koeningsegg|One:1|V8 BiTurbo • 5.0L|2014 • 2015|/engineAudio one1|
+|Koenigsegg|One:1|V8 BiTurbo • 5.0L|2014 • 2015|/engineAudio one1|
 |Jaguar<br>Land Rover|F-Type • F-Pace<br>Range Rover|V6 AJ126 • 3.0L|2013 • 2020|/engineAudio ftypesound|
 |Porsche|Carrera GT|V10 M80/01 • 5.7L|2003 • 2007|/engineAudio porsche57v10|
 |Lamborghini|Murciélago|V12 • 6.2L|2001 • 2010|/engineAudio lgcy04murciv12|
