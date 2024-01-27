@@ -186,6 +186,7 @@
 |Chevrolet|Corvette C6 • Camaro SS|V8 LS3 • 6.2L|2008 • 2017|/engineAudio camls3v8|
 |Toyota|Camry • Alphard • Tacoma|V6 GR 2GR-FKS • 3.5L|Since 2015|/engineAudio asteropers|
 |Ford<br>Shelby|GT40 MKII<br>Cobra|V8 FE • 7.0L|1963 • 1968|/engineAudio lgcy09forgt40mk2|
+|Renault<br>Nissan|Alpine A110<br>Megane IVZ|L4 MR18DDT • 1.8L|Since 2015|/engineAudio og01nismr18| 
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
