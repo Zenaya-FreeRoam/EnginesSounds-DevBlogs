@@ -191,6 +191,7 @@
 |Ford<br>Shelby|GT40 MKII • Fairlane<br>Shelby Cobra 427|V8 FE 427 • 7.0L|1963 • 1968|/engineAudio aq71for427fe|
 |Porsche|718 Boxter/Cayman|F4 MA2.0 • 2.0L|Since 2016|/engineAudio aq54porma2f4|
 |Chevrolet|Corvette C3 • Camaro • Caprice<br>Nova • Impala<br>El Camino • Chevelle|V8 350 L-48 • 5.7L|1967 • 1980|/engineAudio aq43chedrag350|
+|Porsche|Carrera GT|V10 M80/01 • 5.7L|2003 • 2007|/engineAudio aq60por57v10|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
