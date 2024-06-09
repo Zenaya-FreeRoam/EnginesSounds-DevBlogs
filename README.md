@@ -194,6 +194,7 @@
 |Chevrolet|Corvette C3 • Camaro • Caprice<br>Nova • Impala<br>El Camino • Chevelle|V8 350 L-48 • 5.7L|1967 • 1980|/engineAudio aq43chedrag350|
 |Porsche|Carrera GT|V10 M80/01 • 5.7L|2003 • 2007|/engineAudio aq60por57v10|
 |Mercedes|C/E/S/G/GT/ML 63<br>DB11/12 • Vantage • DBX|V8 M177 T-T**²** • 4.5L<br>Brabus 900 Edition|Since 2015|/engineAudio rocket|
+|Chevrolet|Corvette ZR1|V8 LS9 • 6.2L|2009 • 2017|/engineAudio aq54porma2f4|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
