@@ -71,7 +71,7 @@
 |Volkswagen|Škoda Fabia R5 (WRC)|R4 FSI/TFSI • 1.6L|Since 2007|/engineAudio lg87skodar5rally| 15
 |Volkswagen|Golf III • Passat III|VR6 • 2.8L|Since 1991|/engineAudio lgcy00vr6|
 |Nissan|GT-R R34|L6 RB26DETT • 2.6L|1989 • 2002|/engineAudio ta017nismorb|
-|Ford|GT • F-150 • |V8 EcoBoost D35 • 3.5L|Since 2015|/engineAudio kc63fordgt2gen|
+|Ford|GT • F-150 • |V6 EcoBoost D35 • 3.5L|Since 2015|/engineAudio kc63fordgt2gen|
 |Mitsubishi|Lancer Evolution|L4 4G63T • 2.0L|1976 • 2013|/engineAudio n4g63t|
 |BMW|G80 M3 • G82 M4<br>F97 X3M • F98 X4M<br>F22/F23 M240i|L6 • 3.0L|Since 2019|/engineAudio ta122s58| 20
 |Mercedes-Benz|Pagani Zonda|V12 M297 • 7.3L|1997 • 2016|/engineAudio m297zonda|
