@@ -172,6 +172,7 @@
 |Lamborghini|Aventador • Veneno<br>Centenario|V12 L539 • 6.5L|Since 2011|/engineAudio venenov12|
 |Koenigsegg|One:1|V8 BiTurbo • 5.0L|2014 • 2015|/engineAudio one1|
 |Jaguar<br>Land Rover|F-Type • F-Pace<br>Range Rover|V6 AJ126 • 3.0L|2013 • 2020|/engineAudio ftypesound|
+|Porsche|918<br>Cayenne • Panamera|V8 MR6 • 4.6L|Since 2013|/engineAudio 918spyeng|
 |Porsche|Carrera GT|V10 M80/01 • 5.7L|2003 • 2007|/engineAudio porsche57v10|
 |Lamborghini|Murciélago|V12 • 6.2L|2001 • 2010|/engineAudio lgcy04murciv12|
 |Ferrari<br><br>Maserati|488 • Portofino • Roma<br>California T • GTC4Lusso<br>Levante • Ghibli III|V8 F154 • 3.9L|Since 2013|/engineAudio ta488f154|
@@ -198,7 +199,6 @@
 |Mercedes-Benz|S/SL/CL/G 65|V12 • 6.0L|2004 • 2015|/engineAudio v1265|
 |McLaren|600LT • 600R • 650S • 675LT<br>MP4-12C • P1 • 540C • 570S|V8 M838T • 3.8L|2011 • 2021|/engineAudio aq82mclm838t|
 |Audi<br>Volkswagen|RS4 • RS5 • Q7 • R8<br>Touareg|V8 FSI 32v • 4.2L|Since 2010|/engineAudio aq83aud42v8b8|
-|Porsche|918<br>Cayenne • Panamera|V8 MR6 • 4.6L|Since 2013|/engineAudio 918spyeng|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
