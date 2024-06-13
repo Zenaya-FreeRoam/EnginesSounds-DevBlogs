@@ -204,6 +204,7 @@
 |Mercedes-Benz|C/CLK/CL/ML/E/SL 63|V8 M156 • 6.2L|2006 • 2015|/engineAudio ta076m156|
 |Mercedes|C/E/S/G/GT 63<br>DB11/12 • Vantage • DBX|V8 M177 T-T**²** • 4.0L|Since 2015|/engineAudio mercm177|
 |Nissan|GT-R R35 • Juke|V6 VR38DETT • 3.8L|Since 2007|/engineAudio nisgtr35|
+|Porsche|919 Hybrid|V4 9R9 • 2.0L|2014 • 2017|/engineAudio 919hybridsound|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
