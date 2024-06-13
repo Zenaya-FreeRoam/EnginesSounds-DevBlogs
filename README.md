@@ -22,7 +22,7 @@
 |Chevrolet|Corvette • Camaro<br>etc...|V8 LT1 • 6.2L|Since 2013|/engineAudio ta183lt1|
 |Cummins|Dodge Ram|L6 ISB • 5.9L|1998 • 2007|/engineAudio cummins5924v|
 |Dodge<br>Plymouth|Charger RT/Daytona • Challenger<br>Barracuda •  Hemi 'Cuda|V8 426 • 7.0L|1964 • 1971|/engineAudio cammedcharger|
-|Nissan • Renault|GT-R R35 • 350Z • Altima<br>Vel Satis • Laguna III • Espace IV|V6 VQ35DE • 3.5L|2003-2006|/engineAudio ta013vq35|
+|Nissan • Renault|350Z • Altima<br>Vel Satis • Laguna III • Espace IV|V6 VQ35DE • 3.5L|2003-2006|/engineAudio ta013vq35|
 |Bugatti|Veyron • Chiron<br>16C Galibier|W16 • 8.0L|Since 2005|/engineAudio bgw16|
 |Bugatti|Veyron • Chiron<br>16C Galibier|W16 • 8.0L|Since 2005|/engineAudio lg62chironpursport|
 |Ferrari|Testarossa • 512 TR<br>Mondial t|V12 • 4.9L|1984 • 1996|/engineAudio f113|
@@ -203,6 +203,7 @@
 |Mercedes|C/E/S/G/GT 63<br>DB11/12 • Vantage • DBX|V8 M176 T-T**²** • 4.0L|Since 2015|/engineAudio lg30meramgtr|
 |Mercedes-Benz|C/CLK/CL/ML/E/SL 63|V8 M156 • 6.2L|2006 • 2015|/engineAudio ta076m156|
 |Mercedes|C/E/S/G/GT 63<br>DB11/12 • Vantage • DBX|V8 M177 T-T**²** • 4.0L|Since 2015|/engineAudio mercm177|
+|Nissan|Nissan GT-R R35|V6 VR38DETT • 3.8L|Since 2007|/engineAudio nisgtr35|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
