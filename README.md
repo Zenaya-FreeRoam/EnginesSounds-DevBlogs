@@ -34,7 +34,7 @@
 |Nissan|Skyline R32/R33/R34|L6 RB26DETT • 2.6L|1989 • 2002<br>Re-produced**¹** since 2019|/engineAudio lg36r32skyid|
 |Chevrolet|Corvette C1 • Fleetline|L6 Stovebolt 235 • 3.9L|1941 • 1962|/engineAudio chevy235|
 |Ford|V-8 Coupe|V8 Flathead 221 • 3.6L|1932 • 1942|/engineAudio flatheadv8|
-|Nissan|Nissan GT-R R35|V6 VR38DETT • 3.8L|Since 2007|/engineAudio aq10nisvr38dett|
+|Nissan|GT-R R35 • Juke|V6 VR38DETT • 3.8L|Since 2007|/engineAudio aq10nisvr38dett|
 |Nissan|350Z Nismo|V6 VQ37VHR • 3.7L|Since 2008|/engineAudio aq14nisvq37vhrt|
 |Ford • Mercury|Crown Victoria<br>Grand Marquis|V8 Modular SOHC • 4.6L<br>With Emergency Dispatch|1990 • 2014|/engineAudio cvpiv8|
 |Ford • Mercury|Crown Victoria<br>Grand Marquis|V8 Modular SOHC • 4.6L<br>Civilian Version|1990 • 2014|/engineAudio cvpiv8civ|
@@ -203,7 +203,7 @@
 |Mercedes|C/E/S/G/GT 63<br>DB11/12 • Vantage • DBX|V8 M176 T-T**²** • 4.0L|Since 2015|/engineAudio lg30meramgtr|
 |Mercedes-Benz|C/CLK/CL/ML/E/SL 63|V8 M156 • 6.2L|2006 • 2015|/engineAudio ta076m156|
 |Mercedes|C/E/S/G/GT 63<br>DB11/12 • Vantage • DBX|V8 M177 T-T**²** • 4.0L|Since 2015|/engineAudio mercm177|
-|Nissan|Nissan GT-R R35|V6 VR38DETT • 3.8L|Since 2007|/engineAudio nisgtr35|
+|Nissan|GT-R R35 • Juke|V6 VR38DETT • 3.8L|Since 2007|/engineAudio nisgtr35|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
