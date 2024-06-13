@@ -201,6 +201,7 @@
 |Audi<br>Volkswagen|RS4 • RS5 • Q7 • R8<br>Touareg|V8 FSI 32v • 4.2L|Since 2010|/engineAudio aq83aud42v8b8|
 |Toyota<br>Lexus|LFA|V10 1LR-GUE • 4.8L|2009 • 2012|/engineAudio lfasound|
 |Mercedes|C/E/S/G/GT 63<br>DB11/12 • Vantage • DBX|V8 M176 T-T**²** • 4.0L|Since 2015|/engineAudio lg30meramgtr|
+|Mercedes-Benz|C/CLK/CL/ML/E/SL 63|V8 M156 • 6.2L|2006 • 2015|/engineAudio ta076m156|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
