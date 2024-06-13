@@ -200,6 +200,7 @@
 |McLaren|600LT • 600R • 650S • 675LT<br>MP4-12C • P1 • 540C • 570S|V8 M838T • 3.8L|2011 • 2021|/engineAudio aq82mclm838t|
 |Audi<br>Volkswagen|RS4 • RS5 • Q7 • R8<br>Touareg|V8 FSI 32v • 4.2L|Since 2010|/engineAudio aq83aud42v8b8|
 |Toyota<br>Lexus|LFA|V10 1LR-GUE • 4.8L|2009 • 2012|/engineAudio lfasound|
+|Mercedes|C/E/S/G/GT 63<br>DB11/12 • Vantage • DBX|V8 M176 T-T**²** • 4.0L|Since 2015|/engineAudio lg30meramgtr|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
