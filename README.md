@@ -210,6 +210,7 @@
 |Mitsubishi|Lancer Evo' X • Lancer|L4 4B11T • 2.0L|2007 • 2015|/engineAudio prg4b11t|
 |Honda|NSX|V6 C30A • 3.0L|1991 • 2004|/engineAudio prgc30a|
 |Pagani|Huayra • Utopia|V8 M158 • 6.0L|Since 2012|/engineAudio prgc30a|
+|Nissan<br><br>BRM|300ZX • Fairlady Z32 • MID4-II Concept<br>NPT90 • NPT91<br>P351|V6 VG30DETT • 3.0L|1987 • 2000|/engineAudio prgvg30dett|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
