@@ -206,7 +206,7 @@
 |Nissan|GT-R R35 • Juke|V6 VR38DETT • 3.8L|Since 2007|/engineAudio nisgtr35|
 |Porsche|919 Hybrid|V4 9R9 • 2.0L|2014 • 2017|/engineAudio dlc919hybridsound|
 |Mercedes|S-Class 680 • G65 AMG • Brabus 850|V12 M279 • 6.0L|Since 2012|/engineAudio mercm279|
-|Jaguar<br>Land Rover|XK(?) • XF(?) • F-Pace<br>Range Rover • Defender|V8 AJ133 • 5.0L|Since 2009|/engineAudio prgxkrs|
+|Jaguar<br>Land Rover|XK* • XF* • F-Pace<br>Range Rover • Defender|V8 AJ133 • 5.0L|Since 2009|/engineAudio prgxkrs|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
