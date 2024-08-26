@@ -142,7 +142,7 @@
 |Chevrolet|Silverado<br>GMC Sierra|V8 Duramax • 6.6L|Since 2001|/engineAudio chevydmaxeng|
 |Honda|NSX|V6 C30A • 3.0L|1991 • 2004|/engineAudio c30a|
 |Renault|Renault-Williams RS5 • Espace F1|V10 RS5 F1 • 3.5L|1993 • 1993|/engineAudio lg115classicf1v10|
-|Koenigsegg|Agera RS|V8 BiTurbo • 5.0L|2010 • 2018|/engineAudio lg67koagerars|
+|Koenigsegg|Agera R/S/RS/Final Edition<br>One:1|V8 BiTurbo • 5.0L|2010 • 2018|/engineAudio lg67koagerars|
 |Ford|Explorer • Taurus • F-150|V6 EcoBoost • 3.5L<br>With Emergency Dispatch|Since 2015|/engineAudio ecoboostv6|
 |Ford|Explorer • Taurus • F-150|V6 EcoBoost • 3.5L<br>Civilian Version|Since 2015|/engineAudio ecoboostv6civ|
 |Audi<br>Apollo<br>Gumpert|Urus<br>Apollo Arrow<br>Gumpert Apollo|V8 FSI T-T**²** • 4.0L|Since 2005|/engineAudio apollosv8|
@@ -211,6 +211,7 @@
 |Honda|NSX|V6 C30A • 3.0L|1991 • 2004|/engineAudio prgc30a|
 |Pagani|Huayra • Utopia|V8 M158 • 6.0L|Since 2012|/engineAudio prgc30a|
 |Nissan<br><br>BRM|300ZX • Fairlady Z32 • MID4-II Concept<br>NPT90 • NPT91<br>P351|V6 VG30DETT • 3.0L|1987 • 2000|/engineAudio prgvg30dett|
+|Koenigsegg|Agera R/S/RS/Final Edition<br>One:1|V8 BiTurbo • 5.0L|2010 • 2018|/engineAudio prgagerar|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
