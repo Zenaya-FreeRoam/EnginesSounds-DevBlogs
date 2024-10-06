@@ -214,6 +214,7 @@
 |Koenigsegg|Agera R/S/RS/Final Edition<br>One:1|V8 BiTurbo • 5.0L|2010 • 2018|/engineAudio prgagerar|
 |Audi<br>Volkswagen|RS4 • RS5 • Q7 • R8<br>Touareg|V8 FSI • 4.2L|Since 2006|/engineAudio prg42fsi|
 |Volkswagen|Golf III • Passat III|VR6 • 2.8L|Since 1991|/engineAudio vwvr6|
+|Audi|TTRS • RS3 • RSQ3|R5 TFSI • 2.5L|Since 2010|/engineAudio prg25tfsi|
 
 **¹**The production has been restarted to meet the growing shortage of parts on these engines whose production had been stopped for over 15 years.<br>
 **²**T-T for Twin-Turbocharged.<br>
