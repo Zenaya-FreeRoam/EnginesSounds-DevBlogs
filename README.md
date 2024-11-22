@@ -111,7 +111,7 @@
 |Dodge|Viper|V10 ZB II • 8.4L|2008 • 2010|/engineAudio lg42naviperv10|
 |Dodge|Viper|V10 VX • 8.4L|2012 • 2017|/engineAudio ta028viper|
 |Ford|Shelby GT500 • F-150|V8 Predator • 5.2L|2020 • 2022|/engineAudio lg52musgt500v8|
-|Lamborghini|Urus|V8 FSI • 4.0L|Since 2018|/engineAudio lambov8|
+|Lamborghini|Urus|V8 FSI • 4.0L|Since 2018|/engineAudio urusv8|
 |Lamborghini|Murciélago|V12 • 6.2L|2001 • 2010|/engineAudio ta116lp640f|
 |Lamborghini|Murciélago|V12 • 6.2L<br>Straight Piped Exhaust|2001 • 2010|/engineAudio lg123murcisp|
 |Lamborghini|Gallardo|V10 • 6.2L|Since 2003|/engineAudio lg114oldgalv10|
