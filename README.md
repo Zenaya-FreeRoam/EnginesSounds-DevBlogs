@@ -115,7 +115,7 @@
 |Lamborghini|Murciélago|V12 • 6.2L|2001 • 2010|/engineAudio ta116lp640f|
 |Lamborghini|Murciélago|V12 • 6.2L<br>Straight Piped Exhaust|2001 • 2010|/engineAudio lg123murcisp|
 |Lamborghini|Gallardo|V10 • 6.2L|Since 2003|/engineAudio lg114oldgalv10|
-|Lamborghini|Diablo|V12 • 5.7L|1990 • 2001|/engineAudio lambov12diablo|
+|Lamborghini|Diablo|V12 • 5.7L|1990 • 2001|/engineAudio diablov12|
 |Mercedes-Benz|S/SL/CL/G 65|V12 • 6.0L|2004 • 2015|/engineAudio aqm275amg|
 |Mercedes-Benz|G/S/SL/ML/CL/CLK 500|V8 M113 50 • 5.0L|1998 • 2007|/engineAudio mercedesm113|
 |Mercedes-Benz|SLR McLaren|V8 M155 • 5.4L|2004 • 2009|/engineAudio mercedesm155|
